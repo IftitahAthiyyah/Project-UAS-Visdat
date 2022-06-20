@@ -96,7 +96,7 @@ Penelitian ini dilakukan dengan mengikuti metodologi yang dapat dilihat pada gam
 </p>
 
 <p align="center">
-<img src = "https://github.com/IftitahAthiyyah/Project-UAS-Visdat/blob/master/images/Alur%20penelitian.png" width="400" height="600" />
+<img src = "https://github.com/IftitahAthiyyah/Project-UAS-Visdat/blob/master/images/sarana.png" width="300" height="600" />
 </p>
 
 <p align="justify">
