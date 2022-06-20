@@ -186,7 +186,7 @@ Menampilkan sarana kesehatan di Provinsi Jawa Timur. Tujuannya untuk melihat jen
 
 Berikut hierarki variabel yang digunakan
 <p align="center">
-<img src = "https://github.com/IftitahAthiyyah/Project-UAS-Visdat/blob/master/images/sarana.png" width="300" height="600" />
+<img src = "https://github.com/IftitahAthiyyah/Project-UAS-Visdat/blob/master/images/Hierarki%20Sarana.png" width="300" height="600" />
 </p>
 
 <p align="justify">Visualisasi sarana kesehatan dibuat fitur drill-down sehingga dapat interaktif yang jika di-click akan muncul kategori dari jenis sarana tersebut. Berikut visualisasi sarana kesehatan.
