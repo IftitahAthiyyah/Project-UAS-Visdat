@@ -192,7 +192,7 @@ Berikut hierarki variabel yang digunakan
 <p align="justify">Visualisasi sarana kesehatan dibuat fitur drill-down sehingga dapat interaktif yang jika di-click akan muncul kategori dari jenis sarana tersebut. Berikut visualisasi sarana kesehatan.
 </p>
 <p align="center">
-<img src = "https://github.com/IftitahAthiyyah/Project-UAS-Visdat/blob/master/images/sarana.png" />
+<img src = "https://github.com/IftitahAthiyyah/Project-UAS-Visdat/blob/master/images/vizz%20sarana.png" />
 </p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -231,8 +231,5 @@ Berikut visualisasi karakteristik umum.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-<h4>
 Akses dashboard di Tableau Public
 [DASHBOARD PROFIL KESEHATAN](https://public.tableau.com/shared/KQBQT6226?:display_count=n&:origin=viz_share_link)
-</h4>
